@@ -1,0 +1,19 @@
+.quote{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    color: #DDDDDD;
+    width: 40%;
+    margin: auto;
+    line-height: 160%;
+    margin-bottom: 50px;
+    margin-top: 200px;
+}
+p{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    color: #DDDDDD;
+    width: 40%;
+    margin: auto;
+}

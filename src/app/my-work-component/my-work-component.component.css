@@ -1,0 +1,19 @@
+.works-container{
+    text-align: center;
+    margin-top:200px;
+}
+.heading{
+    font-weight: 600;
+    size: 20px;
+    margin-bottom: 100px;
+}
+
+.card-component{
+    display: inline-block;
+    
+}
+
+.m-add{
+    position:relative;
+    top:42px;
+}

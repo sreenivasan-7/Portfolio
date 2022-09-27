@@ -1,0 +1,21 @@
+p{
+    font-size: 30px;
+}
+.text-container{
+    text-align: center;
+ margin-top: 150px;
+}
+.strike{
+    text-decoration: line-through;
+    color: #7C7C7C;
+    display: inline-block;
+    margin-top: 0px;
+    font-weight: 400;
+}
+
+.prod{
+    display: inline-block;
+    margin-top: 0px;
+    font-weight: 500;
+    margin-left: 5px;
+}
